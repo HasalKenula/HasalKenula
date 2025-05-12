@@ -4,14 +4,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HasalKenula&label=Profile%20views&color=0e75b6&style=flat" alt="HasalKenula" /> </p>
 
 <hr/>
-<p align="center">
+ <p align="center">
   <a href="https://github.com/HasalKenula">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HasalKenula&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/HasalKenula">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HasalKenula&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+ 
+</p> 
+
+
+<hr/>
+
+ 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasalKenula&theme=tokyonight)  ![Github Stars](https://github-readme-stats.vercel.app/api?username=HasalKenula&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+
 
 
 <hr/>
