@@ -4,14 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HasalKenula&label=Profile%20views&color=0e75b6&style=flat" alt="HasalKenula" /> </p>
 
 <hr/>
- <p align="center">
-  <a href="https://github.com/HasalKenula">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HasalKenula&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- 
-</p> 
-
-
-<hr/>
 
  
 
